@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://dsoviyb8ymuxd"]
+
+[ext_resource type="Script" uid="uid://cb48cm316prls" path="res://ejer_2_sondeo_even.gd" id="1_x1je4"]
+[ext_resource type="PackedScene" path="res://player_base.tscn" id="2_player"]
+
+[node name="Main" type="Node2D" unique_id=717823224]
+script = ExtResource("1_x1je4")
+
+[node name="Hud" type="Label" parent="." unique_id=496548626]
+offset_left = 40.0
+offset_top = 40.0
+offset_right = 80.0
+offset_bottom = 63.0
+theme_override_font_sizes/font_size = 26
+
+[node name="Player" parent="." unique_id=152991843 instance=ExtResource("2_player")]
+position = Vector2(576, 500)
