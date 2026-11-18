@@ -8,7 +8,7 @@ Aquí se suben **todas las actividades individuales** de la materia: talleres, e
 
 | Carpeta | Actividad | Descripción |
 |---|---|---|
-| `ejer-2/` | Taller 2.1 · Ejercicio 2 / Reto 2.1 | Sondeo y eventos de entrada: panel HUD que muestra en tiempo real la señal del dispositivo (digital, analógica o posición) y un personaje que se mueve con el Input Map. Incluye `ficha.md` y `respuestas.md`. |
+| `reto-2.1/` | Taller 2.1 · Reto: Panel de controles dentro del juego | Sondeo y eventos de entrada: panel HUD que muestra en tiempo real la señal del dispositivo (digital, analógica o posición) y un personaje que se mueve con el Input Map. Incluye `ficha.md` y `respuestas.md`. |
 
 > Esta tabla se irá actualizando con cada nueva actividad que se suba.
 
